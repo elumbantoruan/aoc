@@ -1,7 +1,7 @@
 package main
 
 import (
-	"aoc2023/pkg/math"
+	"aoc/2023/pkg/math"
 	"bufio"
 	"bytes"
 	"fmt"
